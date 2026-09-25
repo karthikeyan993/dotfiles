@@ -1,0 +1,10 @@
+{
+  "lastChangelogVersion": "0.87.1",
+  "theme": "light",
+  "defaultProvider": "openai-codex",
+  "defaultModel": "gpt-6-astra",
+  "enabledModels": [
+    "openai-codex/gpt-6-astra",
+    "fireworks/accounts/fireworks/models/deepseek-v4p1-flash"
+  ]
+}
